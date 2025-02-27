@@ -39,6 +39,14 @@ The following are the steps involved in making your first commit to a github rep
 A commit is a record of changes in a git repository. They help in version control in the following ways; tracking changes, restoring previous versions, branching & merging and collaboration.
 
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
+Branching allows developers to create separate lines of development within a project and instead of making changes directly to the main, developers work in branches that are isolated from the main.
+Branching is important in collaborative development through;parallel development, code stability, bug fixing and experimentation which enhances efficient collaboration in teams.
+Creating, using and merging branches in github involves;
+1. creating a branch and switching to it.
+2. Making changes in the branch, then stage and commit the changes.
+3. the next step is to push the branch to github.
+4. creating a pull request on github and request a review from teammates.
+5. Once the pull request is approved, click merge pull request.
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
 
